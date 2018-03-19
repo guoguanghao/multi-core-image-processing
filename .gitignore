@@ -1,0 +1,13 @@
+
+testLabInC
+.vscode/settings.json
+/.vscode
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+Report/~$b Report.docx
+*.gz
+*.md5
+*.txt
+app/hello_world/log.txt
